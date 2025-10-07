@@ -1,1 +1,1 @@
-# PracticalAcousticSensing
+# Practical Acoustic Sensing
